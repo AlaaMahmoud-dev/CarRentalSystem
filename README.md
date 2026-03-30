@@ -97,34 +97,6 @@ Key Tables:
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/AlaaMahmoud-dev/CarRentalSystem.git
-```
-
-2. Open the solution in Visual Studio
-
-3. Update the connection string in:
-
-```csharp
-clsDataAccessSettings.ConnectionString
-```
-
-4. Run the database script (if available)
-
-5. Start the application 🚀
-
----
-
-## 🔐 Notes
-
-* Make sure SQL Server is running
-* Do NOT expose sensitive connection strings in production
-
----
 
 ## 👨‍💻 Author
 
