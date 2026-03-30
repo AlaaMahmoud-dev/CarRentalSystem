@@ -1,0 +1,6 @@
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\bin\Debug\CarRental_DataAccessLayar.dll
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\bin\Debug\CarRental_DataAccessLayar.pdb
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\obj\Debug\CarRental_DataAccessLayar.csproj.AssemblyReference.cache
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\obj\Debug\CarRental_DataAccessLayar.csproj.CoreCompileInputs.cache
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\obj\Debug\CarRental_DataAccessLayar.dll
+C:\Data\Programming\Car Rental Project\CarRental_DataAccessLayar\obj\Debug\CarRental_DataAccessLayar.pdb

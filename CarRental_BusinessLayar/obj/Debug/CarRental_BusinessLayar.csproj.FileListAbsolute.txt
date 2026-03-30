@@ -1,0 +1,9 @@
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\bin\Debug\CarRental_BusinessLayar.dll
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\bin\Debug\CarRental_BusinessLayar.pdb
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\bin\Debug\CarRental_DataAccessLayar.dll
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\bin\Debug\CarRental_DataAccessLayar.pdb
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\obj\Debug\CarRental_BusinessLayar.csproj.AssemblyReference.cache
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\obj\Debug\CarRental_BusinessLayar.csproj.CoreCompileInputs.cache
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\obj\Debug\CarRenta.AAF7AE23.Up2Date
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\obj\Debug\CarRental_BusinessLayar.dll
+C:\Data\Programming\Car Rental Project\CarRental_BusinessLayar\obj\Debug\CarRental_BusinessLayar.pdb
